@@ -1,0 +1,32 @@
+aid: transport-for-berlin-germany
+name: Transport for Berlin, Germany
+description: "Third-party VBB API"
+url: https://github.com/derhuerst/vbb-rest/blob/3/docs/index.md
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Transportation"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Transportation
+  - Public APIs
+apis:
+  - name: Transport for Berlin, Germany
+    description: "Third-party VBB API"
+    humanURL: https://github.com/derhuerst/vbb-rest/blob/3/docs/index.md
+    baseURL: https://github.com/derhuerst/vbb-rest/blob/3/docs/index.md
+    tags:
+      - Transportation
+    properties:
+      - type: Documentation
+        url: https://github.com/derhuerst/vbb-rest/blob/3/docs/index.md
+common:
+  - type: Website
+    url: https://github.com/derhuerst/vbb-rest/blob/3/docs/index.md
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
