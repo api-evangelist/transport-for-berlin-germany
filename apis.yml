@@ -39,7 +39,6 @@ apis:
   - name: Transport for Berlin, Germany
     description: "Third-party VBB API"
     humanURL: https://github.com/derhuerst/vbb-rest/blob/3/docs/index.md
-    baseURL: https://github.com/derhuerst/vbb-rest/blob/3/docs/index.md
     tags:
       - Transportation
     properties:
